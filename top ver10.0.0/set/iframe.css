@@ -1,0 +1,32 @@
+a:link { color: #0000ff; }
+a:visited { color: #b7ffaf; }
+a:hover { color: #ff0000; }
+a:active { color: #ff8000; }
+#newurl{
+  width:100%;
+  height:20px;
+  background-color:rgba(173, 150, 110, 0.3);
+  border:none;
+  color:white;
+  align:left;
+
+}
+#newtitle{
+  width:100%;
+  height:20px;
+  background-color:rgba(173, 150, 110, 0.3);
+  border:none;
+  color:white;
+  align:left;
+
+}
+#newadd{
+  width:50%;
+  background-color:rgba(173, 150, 110, 0.3);
+  border:none;
+  color:white;
+  align:center;
+}
+#addzone{
+  display:none;
+}

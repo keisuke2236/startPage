@@ -1,0 +1,127 @@
+#clock-01{
+  color:#a3aaae;
+  font-size:30px;
+}
+#body{
+  overflow:hidden;
+}
+iframe.no04{
+  width:100%;
+  height:100%;
+  border:none;
+}
+.ts:hover{
+  background-color: #ffffff;
+  color:#000000;
+  cursor:pointer;
+}
+.obj:hover{
+  background-color: rgba(0, 0, 0, 0.80);
+  cursor:move;
+}
+/*iframe resizable problem*/
+#my-frame-wrapper {
+  width:200px;
+  height:100px;
+  position:relative;
+}
+#my-frame {
+  width:100%;
+  height:100%;
+}
+#mask {
+  position:absolute;
+  top:0;
+  left:0;
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  z-index:999999999999;
+  display:none;
+}
+/*--------------------*/
+#div1{
+  width:20%;
+  height:5%;
+  top:0%;
+  left:0%;
+  position:absolute;
+}
+#div2{
+
+  width:14%;
+  height:10%;
+  top:0%;
+  left:55%;
+  position:absolute;
+}
+#div3{
+  width:30%;
+  height:5%;
+  top:0%;
+  left:70%;
+  position:absolute;
+}
+#div4{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:0%;
+  position:absolute;
+}
+#div5{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:15%;
+  position:absolute;
+}
+#div6{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:30%;
+  position:absolute;
+}
+#div7{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:45%;
+  position:absolute;
+}
+#div8{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:60%;
+  position:absolute;
+}
+#div9{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:75%;
+  position:absolute;
+}
+#div0{
+  width:10%;
+  height:80%;
+  top:10%;
+  left:90%;
+  position:absolute;
+}
+.obj{
+  font-size:1em;
+  background-color:rgba(0, 0, 0, 0.30);
+  color:white;
+}
+.house{
+  position:absolute;
+  width:20%;
+  height:10%;
+  top:0%;
+  left:70%;
+  background-color:rgba(0, 0, 0, 0.56);
+}

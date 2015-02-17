@@ -1,0 +1,2 @@
+jQuery UI
+http://www.buildinsider.net/web/jqueryuiref/0007

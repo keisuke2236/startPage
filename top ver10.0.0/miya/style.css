@@ -1,0 +1,52 @@
+#space1{
+	position: relative;
+	width: 100%;
+	height:100%;
+	background-color: rgba(0,0,0,0.2);
+}
+#space2{
+	position: relative;
+	margin: 30px;
+	width: 500px;
+	height:300px;
+	background-color: rgba(0,0,0,0.2);
+}
+.Ddrag{
+	position: absolute;
+}
+#nav-button{
+	width: 100%;
+	height: 44px;
+
+}
+#test{
+	background-color: #7624f0;
+}
+.Dbutton{
+	cursor: pointer;
+	background-color: #555585;
+	border:1px solid #454585;
+	user-select:none;
+	color: #FFF;
+	width: 40%;
+	text-align: center;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+#testAbs1{
+	position: absolute;
+	width:200px;
+	height: 50px;
+	top: 10px;
+	left:30px;
+	background-color: rgba(255,0,0,0.4);
+}
+#testAbs2{
+	position: absolute;
+	width:200px;
+	height: 50px;
+	top: 0px;
+	left: 30px;
+	background-color: rgba(0,0,255,0.4);
+}
